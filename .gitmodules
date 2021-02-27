@@ -1,0 +1,3 @@
+[submodule "IonicComponentsApp"]
+	path = IonicComponentsApp
+	url = https://github.com/SerSanC/IonicComponentsApp.git
