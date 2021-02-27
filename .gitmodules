@@ -1,3 +1,9 @@
 [submodule "IonicComponentsApp"]
 	path = IonicComponentsApp
 	url = https://github.com/SerSanC/IonicComponentsApp.git
+[submodule "Covid19Tracker"]
+	path = Covid19Tracker
+	url = https://github.com/SerSanC/Covid19Tracker.git
+[submodule "Ionic-Movie-Search"]
+	path = Ionic-Movie-Search
+	url = https://github.com/SerSanC/Ionic-Movie-Search.git
